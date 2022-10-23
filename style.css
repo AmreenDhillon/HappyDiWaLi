@@ -1,0 +1,62 @@
+body {
+    margin: 0;
+    padding-top: 800px;
+    text-align: center;
+}
+
+#diwali {
+    position: absolute;
+    overflow: hidden;
+    height: 800px;
+    color: #FFFFFF;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    opacity: 0.83;
+    background: linear-gradient(#E040FB 0%, #27ae60 100%);
+    display: table;
+    width: 100%;
+    height: 100%;
+}
+#h1 {
+
+    font-size: 40px;
+    line-height: 1.2;
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: #6c757d;
+    bottom: 0;
+    width: 100%;
+    background-color: #f5f5f5;
+    line-height: 3;
+    text-align: center;
+ }
+  h2 {
+      text-transform: uppercase; 
+      text-shadow: #6c757d;
+      text-decoration-color: burlywood;
+      font-style: unset;
+      font-family: Arial, Helvetica, sans-serif;
+      font-stretch: wider;
+      
+  }
+  #h12{
+      font-size: x-large;
+      font-weight: bold;
+      font-stretch: narrower;
+      color: orangered;
+      text-transform: unset;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  img{
+      width: 100px;
+      height: 100px;
+      margin-bottom: 0px;
+      margin-right: 1000px;
+      margin-top: 100px;
+  }
